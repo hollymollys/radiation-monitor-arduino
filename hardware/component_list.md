@@ -8,5 +8,5 @@
 
 (Planned)  
 - 16x2 LCD Display or OLED Screen  
-- WiFi Module (ESP8266/ESP32 for cloud logging)  
+- SD Card Module (for data logging)  
 
